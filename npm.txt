@@ -1,0 +1,5 @@
+npm install
+
+for nebular
+
+npm i -S @nebular/theme @nebular/auth @nebular/security
