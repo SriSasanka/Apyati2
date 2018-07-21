@@ -41,7 +41,17 @@
             "scripts": [
               "./node_modules/pace-js/pace.min.js",
               "./node_modules/jquery/dist/jquery.js",
-              "./node_modules/popper.js/dist/umd/popper.js"
+              "./node_modules/popper.js/dist/umd/popper.js",
+              "./src/assets/login/assets/js/jquery.countdown.min.js",
+              "./src/assets/login/assets/js/jquery.nav.js",
+              "./src/assets/login/assets/js/jquery.easing.min.js",
+              "./src/assets/login/assets/js/wow.js",
+              "./src/assets/login/assets/js/jquery.slicknav.js",
+              "./src/assets/login/assets/js/nivo-lightbox.js",
+              "./src/assets/login/assets/js/main.js",
+              "./src/assets/login/assets/js/form-validator.min.js",
+              "./src/assets/login/assets/js/contact-form-script.min.js",
+              "./src/assets/login/assets/js/map.js"
             ]
           },
           "configurations": {
